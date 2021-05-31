@@ -1,0 +1,3 @@
+- needs old non-existant ccm suite, also needs python libraries pyglet and pytssx3
+-scrap for funny little parts
+- also contains old speech modules I have also abandoned
